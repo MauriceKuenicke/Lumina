@@ -1,0 +1,10 @@
+MyPerfectSoftware:
+  location: "GitHub"
+  repo_owner: "MauriceKuenicke"
+  repo_name: "pulsar-topic-viewer"
+
+product-2:
+  location: "GitHub"
+  repo_owner: "MAMAMAMA"
+  repo_name: "pulsar-topic-viewer"
+  version_regex: "dsds"
