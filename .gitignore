@@ -1,3 +1,5 @@
 .idea
 .venv
 __pycache__
+.iml
+/Tauri-Release-Server.iml
